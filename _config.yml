@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Raymond's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Raymond's Website!
+description: I don't know what I will use this site for yet
+
+
+#https://github.com/pages-themes/minimal
